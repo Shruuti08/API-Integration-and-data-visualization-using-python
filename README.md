@@ -33,3 +33,4 @@ This project showcases a practical application of Python to retrieve data from a
 - JSON: Parsing structured API data
 
 # Output
+- 5-days Temperature Forecast for Pune City
