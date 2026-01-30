@@ -11,25 +11,25 @@ This project showcases a practical application of Python to retrieve data from a
 
 
 # Objectives
-Learn how to interact with an API using Python.
-Process and extract useful information.
-Visualize numerical and categorical weather data.
-Create a user-friendly dashboard that presents weather data in an easy-to-understand format.
+- Learn how to interact with an API using Python.
+- Process and extract useful information.
+- Visualize numerical and categorical weather data.
+- Create a user-friendly dashboard that presents weather data in an easy-to-understand format.
 
 
 # Key Features
-User Input Interface
-Real-Time Weather Data
-Data Visualization with Matplotlib and Seaborn
-Clean and Readable Code
+- User Input Interface
+- Real-Time Weather Data
+- Data Visualization with Matplotlib and Seaborn
+- Clean and Readable Code
 
 
 # Technologies Used
-Python : Core programming language
-OpenWeatherMap: Source of real-time weather data
-Requests:Sending HTTP requests to the API
-Matplotlib: Creating basic and advanced plots
-Seaborn: Enhancing visual styling of charts
-JSON: Parsing structured API data
+- Python : Core programming language
+- OpenWeatherMap: Source of real-time weather data
+- Requests:Sending HTTP requests to the API
+- Matplotlib: Creating basic and advanced plots
+- Seaborn: Enhancing visual styling of charts
+- JSON: Parsing structured API data
 
 # Output
