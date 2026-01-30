@@ -1,6 +1,6 @@
 # API-Integration-and-data-visualization-using-python
 Company: Codtech IT Solution 
-Name: Shruti Bharat Sharma
+- Name: Shruti Bharat Sharma
 InternId: CTIS1681
 Domain: Python Programming
 Duration: 4 weeks
