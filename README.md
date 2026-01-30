@@ -34,3 +34,4 @@ This project showcases a practical application of Python to retrieve data from a
 
 # Output
 - 5-days Temperature Forecast for Pune City
+<img width="997" height="427" alt="op_01" src="https://github.com/user-attachments/assets/03b67e18-5506-40f6-a4e4-74b2f81fce28" />
