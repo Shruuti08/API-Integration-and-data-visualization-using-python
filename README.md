@@ -1,3 +1,4 @@
+# API-Integration-and-data-visualization-using-python
 Company: Codtech IT Solution 
 Name: Shruti Bharat Sharma
 InternId: CTIS1681
@@ -5,7 +6,7 @@ Domain: Python Programming
 Duration: 4 weeks
 
 
-# API-Integration-and-data-visualization-using-python
+# Description
 This project showcases a practical application of Python to retrieve data from a public API and convert it into meaningful visual representations. The main objective is to process raw API responses and present them through clear, interactive, and visually engaging charts that make it easier to understand current weather conditions and future.
 
 
@@ -21,6 +22,7 @@ User Input Interface
 Real-Time Weather Data
 Data Visualization with Matplotlib and Seaborn
 Clean and Readable Code
+
 
 # Technologies Used
 Python : Core programming language
